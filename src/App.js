@@ -7,10 +7,7 @@ function App() {
     <div className="App">
       <WeatherSearch />
       Open source by Vlasta Rencova. See the code on{" "}
-      <a href="https://github.com/rencovav/weather-react-app" target="_blank">
-        Github
-      </a>
-      .
+      <a href="https://github.com/rencovav/weather-react-app">Github</a>.
     </div>
   );
 }
