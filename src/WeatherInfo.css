@@ -1,0 +1,16 @@
+.WeatherInfo {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+  display: block;
+}
+
+.WeatherInfo .temperature-container {
+  margin-top: 30px;
+}
+
+.WeatherInfo .col {
+  padding: 20px;
+}
+
+

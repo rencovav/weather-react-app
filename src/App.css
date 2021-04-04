@@ -1,8 +1,15 @@
-body {
+.App .container {
   text-align: center;
   padding-top: 50px;
+  background-color: white;
+  padding: 30px;
 }
 
 ul {
   list-style: none;
+}
+
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
 }
